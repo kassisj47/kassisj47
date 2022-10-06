@@ -1,4 +1,4 @@
-Hello 👋
+Hi 👋
 - My name is Jonathan Kassis
 - 🌱 I am self taught and interested in Python, Java Script, HTML & CSS, SQL, and Java
 <!---
